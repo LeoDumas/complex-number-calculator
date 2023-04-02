@@ -1,2 +1,1 @@
-"# complex-number-calculator"
-"# Console version"
+Complex number calculator; Console application
